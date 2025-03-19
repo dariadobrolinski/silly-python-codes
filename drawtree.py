@@ -8,4 +8,5 @@ def tree(height):
         stars += 2
     print("*".center(length))
 
-# call tree on any number, ex: tree(10)
+# call tree on any number, heres an example:
+tree(20)
